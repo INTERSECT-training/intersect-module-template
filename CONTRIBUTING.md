@@ -112,7 +112,6 @@ your clone of the originating `gh-pages` branch.
 Lastly, published copies of all the lessons are available in the `gh-pages` branch of the originating
 repository for reference while revising.
 
-[email]: 
 [i-site]: https://intersect-training.org/
 [i-issues]: tbd
 [i-lessons]: tbd
