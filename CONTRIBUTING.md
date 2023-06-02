@@ -1,6 +1,6 @@
 # Contributing
 
-[The Carpentries][c-site] ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]) are open source projects,
+[INTERSECT][i-site]is an open source project,
 and we welcome contributions of all kinds:
 new lessons,
 fixes to existing material,
@@ -14,7 +14,7 @@ you agree that we may redistribute your work under [our license](LICENSE.md).
 In exchange,
 we will address your issues and/or assess your change proposal as promptly as we can,
 and help you become a member of our community.
-Everyone involved in [The Carpentries][c-site]
+Everyone involved in [INTESECT][i-site]
 agrees to abide by our [code of conduct](CODE_OF_CONDUCT.md).
 
 ## How to Contribute
@@ -126,26 +126,13 @@ your clone of the originating `gh-pages` branch.
 Lastly, published copies of all the lessons are available in the `gh-pages` branch of the originating
 repository for reference while revising.
 
-## Other Resources
-
-General discussion of [Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]
-happens on the [discussion mailing list][discuss-list],
-which everyone is welcome to join.
-You can also [reach us by email][email].
-
-[email]: mailto:team@carpentries.org
-[dc-issues]: https://github.com/issues?q=user%3Adatacarpentry
-[dc-lessons]: http://datacarpentry.org/lessons/
-[dc-site]: http://datacarpentry.org/
-[discuss-list]: https://carpentries.topicbox.com/groups/discuss
+[email]: 
+[i-site]: https://intersect-training.org/
+[i-issues]: tbd
+[i-lessons]: tbd
 [github]: https://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://app.egghead.io/playlists/how-to-contribute-to-an-open-source-project-on-github
 [issues]: https://guides.github.com/features/issues/
-[swc-issues]: https://github.com/issues?q=user%3Aswcarpentry
-[swc-lessons]: https://software-carpentry.org/lessons/
-[swc-site]: https://software-carpentry.org/
-[c-site]: https://carpentries.org/
-[lc-site]: https://librarycarpentry.org/
-[lc-issues]: https://github.com/issues?q=user%3Alibrarycarpentry
+
