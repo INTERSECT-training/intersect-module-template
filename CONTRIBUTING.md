@@ -113,8 +113,6 @@ Lastly, published copies of all the lessons are available in the `gh-pages` bran
 repository for reference while revising.
 
 [i-site]: https://intersect-training.org/
-[i-issues]: tbd
-[i-lessons]: tbd
 [github]: https://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
